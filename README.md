@@ -1,4 +1,4 @@
-# Linux环境学习笔记
+# Linux Tutorial 
 
 ## makefile
 
